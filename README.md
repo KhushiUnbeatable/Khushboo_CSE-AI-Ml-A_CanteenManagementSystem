@@ -27,5 +27,5 @@ Mini project
 3. Run `main.py` to start the application.
 
 ## Video Explanation:  
-[Click here to watch project](https://drive.google.com/file/d/1ONLGJ4a4dzFtW1cAeMS9W8d_UVUtA-Xy/view?usp=drivesdk)
+[Click here to watch project](https://drive.google.com/file/d/1Pr7pGoh4dwQ8nny0M6UcYP1wRWNUKwIC/view?usp=drivesdk)
 
